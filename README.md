@@ -26,7 +26,7 @@ Click the link and check the app: [Link](https://ms-finance-dashboard.vercel.app
 
 
 ## 💾 Installation
-git clone https://github.com/marcinsuski/finance-dashboard.git
+git clone [https://github.com/marcinsuski/finance-dashboard.git](https://github.com/harshwadiya/FINOSHO1)
 
 
 ## /server: 
@@ -49,7 +49,4 @@ Sample data in /client/data/data.js for data structure reference.
 ## ☎️ Contact
 In case of any comments or advice, You can e-mail me or use Issues :)
 
-## 🧙‍♂️ Author
-- GitHub - [Marcin Suski](https://github.com/marcinsuski)
-- LinkedIn - [marcin-suski](https://www.linkedin.com/in/marcin-suski/)
-- Porftolio - [marcinsuski.pl](https://marcinsuski.pl)
+
