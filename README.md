@@ -26,7 +26,7 @@ Click the link and check the app: [Link](https://ms-finance-dashboard.vercel.app
 
 
 ## 💾 Installation
-git clone [https://github.com/marcinsuski/finance-dashboard.git](https://github.com/harshwadiya/FINOSHO1)
+git clone (https://github.com/harshwadiya/FINOSHO1)
 
 
 ## /server: 
